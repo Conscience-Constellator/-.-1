@@ -1,0 +1,6 @@
+/**This interface is 1 module due to how few files it has.*/
+
+module 1$
+{
+	exports CC.$.Q$;
+}
